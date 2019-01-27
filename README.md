@@ -2,6 +2,7 @@
 Global Game Jam 2019 的作品,
 遊戲名稱 Home of Homeless,
 用Unity3D和插件fungus制作的文字文字冒險類型
+
 特別感謝隊友 David,阿坤,Aria,KenGor
 
 ## 遊戲介紹:
